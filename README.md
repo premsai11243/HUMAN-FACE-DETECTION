@@ -51,6 +51,10 @@ A complete pipeline for detecting human faces in images and videos using YOLOv8,
   </li>
 </ol>
 
+https://github.com/user-attachments/assets/2fec25d2-b184-4e36-a4a3-e9e9e3121194
+
+
+
 <hr>
 
 <h2> Final Goal</h2>
